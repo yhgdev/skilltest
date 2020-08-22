@@ -8,3 +8,5 @@ Now,do some test here
 3.Creating a new branch and record it.
 
 4.Creating a new branch issue-101 to fix issue-101.
+
+5.Creating a new branch for new feature.
